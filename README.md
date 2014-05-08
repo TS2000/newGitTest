@@ -1,0 +1,4 @@
+newGitTest
+==========
+
+A Test Repository
